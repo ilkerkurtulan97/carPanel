@@ -4,4 +4,4 @@ On going project of mine. Trying to imitate joy panel of the cars & planes using
 
 ![Screenshot](a.png)
 
-![Screenshot](a.png)
+![Screenshot](b.png)
