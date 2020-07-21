@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/backward.png</file>
+        <file>images/forward.png</file>
+        <file>images/mute.png</file>
+        <file>images/optionsGeneral.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/playOptions.png</file>
+        <file>images/repeat.png</file>
+        <file>images/shuffle.png</file>
+        <file>images/stop.jpg</file>
+        <file>images/volumeDown.png</file>
+        <file>images/volumeUp.png</file>
+        <file>images/games.png</file>
+        <file>images/music.png</file>
+        <file>images/film.png</file>
+        <file>images/navigation.png</file>
+        <file>images/radio.png</file>
+        <file>images/tv.png</file>
+        <file>images/poweroff.png</file>
+        <file>images/about.png</file>
+        <file>images/calendar.png</file>
+    </qresource>
+</RCC>
